@@ -1,0 +1,4 @@
+EspadaLuisXV 110 5000 50000 Michelle
+BanderaInglesa 112 2000 8000 Fernando
+CalizDeFuego 111 4500 10000 Michelle
+MateGauchitoGil 114 10000 1000000 Michelle
